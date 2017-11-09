@@ -5,3 +5,10 @@ Instruction to run python script: At the linux or ubuntu prompt, type this comma
 
 See my youtube video here: 
 https://youtu.be/-4QJIa_q17k
+
+https://youtu.be/m-hLARnG9NA
+
+https://youtu.be/L6cdK0i9eqY
+
+https://youtu.be/A9KrAsRzDaU
+
